@@ -13,24 +13,24 @@ nav:
     - Game Roadmap: gameroadmap.md
     - Classes:
       - Shade: class/shade.md
-#      - Chaotic Good:                          WoW           RO
-#        - Archer: class/archer.md              hunter        1
-#        - Druid: class/druid.md                1             -
-#        - Monk: class/monk.md                  1             1
-#        - Paladin: class/paladin.md            1             1
-#        - Priest: class/priest.md              1             1
+#      - Chaotic Good:
+#        - Archer: class/archer.md
+#        - Druid: class/druid.md
+#        - Monk: class/monk.md
+#        - Paladin: class/paladin.md
+#        - Priest: class/priest.md
 #      - Chaotic Neutral:
-#        - Alchemist: class/alchemist.md        -             1
-#        - Bard: class/bard.md                  -             1
-#        - Engineer: class/engineer.md          -             1
-#        - Rogue: class/rogue.md                1             1
-#        - Witch Doctor: class/witchdoctor.md   1             -
+#        - Alchemist: class/alchemist.md
+#        - Bard: class/bard.md
+#        - Engineer: class/engineer.md
+#        - Rogue: class/rogue.md
+#        - Witch Doctor: class/witchdoctor.md
 #      - Chaotic Evil:
-#        - Dread Knight: class/dreadknight.md   1             -
-#        - Necromancer: class/necromancer.md    -             -
-#        - Shadowblade: class/shadowblade.md    warrior       -
-#        - Sorcerer: class/sorcerer.md          1             1
-#        - Warlock: class/warlock.md            1             1
+#        - Dread Knight: class/dreadknight.md
+#        - Necromancer: class/necromancer.md
+#        - Shadowblade: class/shadowblade.md
+#        - Sorcerer: class/sorcerer.md
+#        - Warlock: class/warlock.md
     - Locations:
       - Tutorial: locations/tutorial.md
       - Mysteria: locations/mysteria.md
@@ -45,6 +45,7 @@ nav:
 #      - Chaos: locations/chaos.md
       - Event Locations: locations/events.md
     - Mechanics:
+      - Starting Out: mechanics/startingout.md
       - Achievements: mechanics/achievements.md
       - Alliance: mechanics/alliance.md
 #      - Attributes: mechanics/attributes.md
@@ -91,7 +92,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: img/favicon.ico
+  favicon: img/favicon.png
   logo: img/dantes_crest_logo_base.png
   name: material
   features:

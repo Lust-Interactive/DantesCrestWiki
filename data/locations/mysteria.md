@@ -24,6 +24,9 @@ The Crypt is a place of mystery and danger, where players can explore and uncove
 #### Guild Hall
 Players can form guilds and work together to achieve common goals. All guilds in the game world are registered in Mysteria's Guild Hall.
 
+#### Frenemy Tower
+A notable location in Mysteria that seems to be on fire or under siege. It serves as a backdrop for the login scene and holds significance in the game's lore.
+
 #### Undernational Railway
 The Undernational Railway is one of the systems of transportation that connects Mysteria to other locations in Incartum.
 

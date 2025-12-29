@@ -56,4 +56,4 @@ There seems to be a Human guard here. How did he get here? How did the Spring ge
 
 
 ### Alliance Information
-Mysteria is home to the **Bloodstone Order** an [Alliance](../mechanics/alliance.md) that is dedicated to the protection of Incartum and the eradication of the Voidtide.
+Mysteria is home to the **Bloodstone Order**, an [Alliance](../mechanics/alliance.md) that is dedicated to the protection of Incartum and the eradication of the Voidtide.
